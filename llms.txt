@@ -10,8 +10,8 @@ https://computefreely.com/
 
 - QR Freely: https://qrfreely.com/ - browser-only QR code generator for URLs, Wi-Fi, contacts, events, messages, locations, and text.
 - Video Freely: https://videofreely.com/ - browser video and audio converter using FFmpeg WebAssembly with no upload step.
-- PDF Freely: https://pdffreely.com/ - local PDF organizer for merge, split, reorder, rotate, watermark, page numbers, metadata, and image-to-PDF.
-- Fill Freely: https://fillfreely.com/ - local PDF form filler and visual signer for text, checkmarks, dates, initials, and signature appearance.
+- PDF Freely: https://pdffreely.com/ - local PDF tools for merge, split, reorder, rotate, watermark, page numbers, metadata, and image-to-PDF.
+- Fill Freely: https://fillfreely.com/ - local PDF text, form field, checkmark, date, initial, and signature appearance tools.
 - Image Freely: https://imagefreely.com/ - local image editor for crop, resize, compression, conversion, background removal, metadata stripping, and bulk export.
 - Resume Freely: https://resumefreely.com/ - local resume and cover letter builder with ATS-friendly templates, browser PDF output, autosave, JSON import/export, and no signup.
 
