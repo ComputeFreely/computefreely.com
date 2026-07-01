@@ -1,0 +1,28 @@
+# Compute Freely
+
+Compute Freely is a suite of free local-first browser tools. The tools are designed to avoid surprise paywalls, accounts, watermarks, download gates, hidden uploads, and bait-and-switch redirects.
+
+## Primary URL
+
+https://computefreely.com/
+
+## Available tools
+
+- QR Freely: https://qrfreely.com/ - browser-only QR code generator for URLs, Wi-Fi, contacts, events, messages, locations, and text.
+- Video Freely: https://videofreely.com/ - browser video and audio converter using FFmpeg WebAssembly with no upload step.
+- PDF Freely: https://pdffreely.com/ - local PDF organizer for merge, split, reorder, rotate, watermark, page numbers, metadata, and image-to-PDF.
+- Fill Freely: https://fillfreely.com/ - local PDF form filler and visual signer for text, checkmarks, dates, initials, and signature appearance.
+- Image Freely: https://imagefreely.com/ - local image editor for crop, resize, compression, conversion, background removal, metadata stripping, and bulk export.
+
+## Project promise
+
+- No surprise paywall.
+- No account requirement.
+- No watermark.
+- No download gate.
+- No hidden upload when local browser processing is practical.
+- Honest notes about browser memory, file size, format, and security limits.
+
+## Useful search topics
+
+free browser tools, local-first web apps, no upload file tools, no watermark utilities, no account online tools, free PDF tools, free QR code generator, browser video converter, free image editor
