@@ -13,6 +13,7 @@ https://computefreely.com/
 - PDF Freely: https://pdffreely.com/ - local PDF organizer for merge, split, reorder, rotate, watermark, page numbers, metadata, and image-to-PDF.
 - Fill Freely: https://fillfreely.com/ - local PDF form filler and visual signer for text, checkmarks, dates, initials, and signature appearance.
 - Image Freely: https://imagefreely.com/ - local image editor for crop, resize, compression, conversion, background removal, metadata stripping, and bulk export.
+- Resume Freely: https://resumefreely.com/ - local resume and cover letter builder with ATS-friendly templates, browser PDF output, autosave, JSON import/export, and no signup.
 
 ## Project promise
 
@@ -25,4 +26,4 @@ https://computefreely.com/
 
 ## Useful search topics
 
-free browser tools, local-first web apps, no upload file tools, no watermark utilities, no account online tools, free PDF tools, free QR code generator, browser video converter, free image editor
+free browser tools, local-first web apps, no upload file tools, no watermark utilities, no account online tools, free PDF tools, free QR code generator, browser video converter, free image editor, free resume builder no signup
