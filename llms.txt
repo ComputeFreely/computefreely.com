@@ -8,6 +8,7 @@ https://computefreely.com/
 
 ## Available tools
 
+- Record Freely: https://recordfreely.com/ - browser screen, tab, camera, microphone, and screen-with-camera recorder with no upload step or watermark.
 - QR Freely: https://qrfreely.com/ - browser-only QR code generator for URLs, Wi-Fi, contacts, events, messages, locations, and text.
 - Video Freely: https://videofreely.com/ - browser video and audio converter using FFmpeg WebAssembly with no upload step.
 - PDF Freely: https://pdffreely.com/ - local PDF tools for merge, split, reorder, rotate, watermark, page numbers, metadata, and image-to-PDF.
@@ -26,4 +27,4 @@ https://computefreely.com/
 
 ## Useful search topics
 
-free browser tools, local-first web apps, no upload file tools, no watermark utilities, no account online tools, free PDF tools, free QR code generator, browser video converter, free image editor, free resume builder no signup
+free browser tools, local-first web apps, free screen recorder no watermark, no upload file tools, no watermark utilities, no account online tools, free PDF tools, free QR code generator, browser video converter, free image editor, free resume builder no signup
