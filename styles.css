@@ -148,13 +148,6 @@ a {
   letter-spacing: 0;
 }
 
-.hero-copy {
-  max-width: 42rem;
-  margin: 1.2rem 0 0;
-  color: rgba(247, 255, 252, 0.86);
-  font-size: clamp(1.08rem, 2.4vw, 1.42rem);
-}
-
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
@@ -185,25 +178,6 @@ a {
 .button:focus-visible {
   transform: translateY(-1px);
   outline: none;
-}
-
-.proof-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
-  padding: 0;
-  margin: 1.35rem 0 0;
-  list-style: none;
-}
-
-.proof-list li {
-  padding: 0.42rem 0.6rem;
-  border: 1px solid rgba(247, 255, 252, 0.22);
-  border-radius: 8px;
-  background: rgba(247, 255, 252, 0.08);
-  color: rgba(247, 255, 252, 0.9);
-  font-size: 0.86rem;
-  font-weight: 800;
 }
 
 .section {
