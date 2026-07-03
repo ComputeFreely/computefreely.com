@@ -30,6 +30,7 @@
     canvas.height = Math.round(height * ratio);
     context.setTransform(ratio, 0, 0, ratio, 0, 0);
     buildScene();
+    window.cancelAnimationFrame(frameId);
     draw(0);
   }
 
@@ -162,13 +163,7 @@
   prefersReducedMotion.addEventListener("change", function () {
     window.cancelAnimationFrame(frameId);
     draw(0);
-    if (!prefersReducedMotion.matches) {
-      frameId = window.requestAnimationFrame(draw);
-    }
   });
 
   resize();
-  if (!prefersReducedMotion.matches) {
-    frameId = window.requestAnimationFrame(draw);
-  }
 })();

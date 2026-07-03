@@ -95,7 +95,6 @@ a {
 .nav-links a:hover,
 .nav-links a:focus-visible {
   background: rgba(0, 168, 168, 0.12);
-  outline: none;
 }
 
 .hero {
@@ -134,11 +133,22 @@ a {
 
 .eyebrow {
   margin: 0 0 0.55rem;
-  color: var(--orange);
+  color: var(--orange-deep);
   font-size: 0.78rem;
   font-weight: 850;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.hero .eyebrow {
+  color: var(--orange);
+}
+
+.hero-lede {
+  max-width: 34rem;
+  margin: 1.1rem 0 0;
+  color: rgba(247, 255, 252, 0.84);
+  font-size: clamp(1rem, 2vw, 1.2rem);
 }
 
 .hero h1 {
@@ -177,13 +187,18 @@ a {
 .button:hover,
 .button:focus-visible {
   transform: translateY(-1px);
-  outline: none;
 }
 
 .section {
   width: min(1180px, calc(100% - 2rem));
   margin: 0 auto;
   padding: clamp(3.5rem, 7vw, 6rem) 0;
+}
+
+#promise,
+#projects,
+#principles {
+  scroll-margin-top: 7.5rem;
 }
 
 .section-heading {
@@ -276,7 +291,7 @@ a {
 
 .planned .status {
   background: rgba(47, 138, 80, 0.12);
-  color: var(--green);
+  color: #276848;
 }
 
 .card-link {
@@ -308,7 +323,7 @@ a {
 }
 
 .principle-list span {
-  color: var(--orange);
+  color: var(--orange-deep);
   font-size: 0.88rem;
   font-weight: 950;
 }
@@ -360,7 +375,6 @@ a {
 .site-footer a:hover,
 .site-footer a:focus-visible {
   color: var(--yellow);
-  outline: none;
 }
 
 @media (max-width: 900px) {

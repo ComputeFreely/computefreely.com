@@ -6,11 +6,13 @@ Live site: https://computefreely.com/
 
 ## Tools
 
+- Record Freely: https://recordfreely.com/
 - QR Freely: https://qrfreely.com/
 - Video Freely: https://videofreely.com/
 - PDF Freely: https://pdffreely.com/
 - Fill Freely: https://fillfreely.com/
 - Image Freely: https://imagefreely.com/
+- Resume Freely: https://resumefreely.com/
 
 ## Promise
 
